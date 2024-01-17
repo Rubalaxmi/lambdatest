@@ -12,8 +12,8 @@ import org.testng.annotations.BeforeTest;
 public class CapabilitiesConfig {
 	RemoteWebDriver remoteDriver = null;
 	private String gridURL = "@hub.lambdatest.com/wd/hub";
-	private String username = "sathish.loganathan";
-	private String accessKey = "SOAsYGUwiZE43ucOmUm2ojiw7JwcBjl0vW4gePrdcJFNHPtCQT";
+	private String username = "rubakumarece";
+	private String accessKey = "UBM5mC2RfxUYqznJmP4VYZtokKihqMVbi3jv6mA5MkMAOcYlsF";
 	private String browserName, browserVersion, platformName;
 
 	@BeforeTest
